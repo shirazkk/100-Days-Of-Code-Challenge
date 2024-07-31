@@ -7,4 +7,4 @@ function hobbies(message: string, ...myHobbies: string[]) {
 }
 
 // Call the function with a message and multiple hobbies
-hobbies("I enjoy", "Coding", "Photography", "Gaming","traveling");
+hobbies("I enjoy", "Coding", "Photography", "Gaming", "traveling");
